@@ -18,10 +18,10 @@
 ⠀⠀⠀⠀⠀⠀⠀
 
 # Considero que estos cuatro proyectos son los mejores que hice 🏆
-### 🏛️ El indicado: [Predicción de beneficios bancarios](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Bank_profit_prediction.ipynb)
-### 💳 El segundo: [Riesgo crediticio](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Risk_analysis_with_Tree-1.ipynb)
-### 🤖 El tercero: [Bank chatbot](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Bank%20chatbot.ipynb)
-### 📈 El cuarto: [Sistema de recomendación de inversiones](https://github.com/Diegod01/Proyects_explanation/blob/main/Portfolio_proyects/Invest_recommendation_systemipynb.ipynb)
+### 🏛️ El primero: [Predicción de ganancia bancaria](https://github.com/Diegod01/Portafolio_spanish/blob/main/Explicaci%C3%B3n/Ganancia%20bancaria.ipynb)
+### 💳 El segundo: [Análisis de riesgo crediticio](https://github.com/Diegod01/Portafolio_spanish/blob/main/Explicaci%C3%B3n/An%C3%A1lisis%20de%20riesgo%20crediticio.ipynb)
+### 🤖 El tercero: [Bank chatbot](https://github.com/Diegod01/Portafolio_spanish/blob/main/Explicaci%C3%B3n/Chatbot_Bancario.ipynb)
+### 📈 El cuarto: [Sistema de recomendación de inversiones](https://github.com/Diegod01/Portafolio_spanish/blob/main/Explicaci%C3%B3n/Sistema%20de%20recomendaci%C3%B3n.ipynb)
 ⠀⠀⠀⠀⠀⠀⠀
 
 ## Para acceder a los demás proyectos technologist ingresa a este enlace:
